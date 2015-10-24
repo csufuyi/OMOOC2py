@@ -13,6 +13,7 @@ PATH = "/path/2/work dir"
 # 函式撰写区
 def foo():
     print 'hello world'
+    print '支持中文的'
     return None
 
 # 自检区
